@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: eytan/podinfo
-      tag: stg-9ij63o4c
+      tag: stg-oem1uryu
     replicaCount: 2
     hpa:
       enabled: true
