@@ -16,5 +16,5 @@ spec:
   values:
     image:
       repository: eytan/podinfo
-      tag: 0.4.12
+      tag: 0.4.17
     replicaCount: 2
